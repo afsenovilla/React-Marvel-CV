@@ -2,7 +2,6 @@ import React from 'react';
 import "./About.css";
 
 const About = ({about}) => {
-    console.log(about);
   return (
     <div className='about'>
         <div className='card'>
